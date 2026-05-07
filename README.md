@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Vaibhav Vatsa 👋</h1>
 
 <p align="center">
-  <b>Software Developer · Web Dev · ML Enthusiast · DSA in C++</b><br/>
+  <b>Software Developer · Web Dev · Exploring ML · DSA in C++</b><br/>
   <i>Final year ECE student @ DSCE, Bengaluru</i>
 </p>
 
@@ -11,9 +11,9 @@
 ### 🚀 About Me
 
 - 🔭 &nbsp;Currently building fintech APIs & stock market systems as an **SDE Intern at BlueStock**
-- 🌱 &nbsp;Sharpening my skills in **DSA (C++)**, System Design & advanced ML models
+- 🌱 &nbsp;Sharpening my skills in **DSA (C++)**, System Design & exploring ML concepts
 - 🤝 &nbsp;Open to collaborating on **Full Stack Web Apps**, React.js projects & open source
-- 💬 &nbsp;Ask me about **React.js, Node.js, Python, C++, ML models, or Web Development**
+- 💬 &nbsp;Ask me about **React.js, Node.js, Python, C++, or Web Development**
 - 🤖 &nbsp;Work with **Claude Code** — spec-driven development, subagents, custom subagents & MCP
 - ⚡ &nbsp;Fun fact: I've competed in 3 national hackathons and placed **4th in Hack-O-Rama** among 50 teams
 
