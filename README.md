@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer · Web Dev · Exploring ML · DSA in C++</b><br/>
-  <i>Final year ECE student @ DSCE, Bengaluru</i>
+  <i>Ex-SDE Intern @ BlueStock · Ex-Frontend Dev @ Startup Folks</i>
 </p>
 
 ---
