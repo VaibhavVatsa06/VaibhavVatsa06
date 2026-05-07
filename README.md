@@ -82,8 +82,9 @@ Full stack developer with a focus on building **clean, responsive web applicatio
 
 ## 🌱 Currently Exploring
 
-- **DSA & Competitive Programming** — C++ problem solving and algorithmic thinking
+- **DSA** — C++ problem solving and algorithmic thinking
 - **Full Stack Development** — deeper dives into backend architecture and scalable APIs
+- **ML & Deep Learning** — building on college projects, exploring CNNs, LSTMs, and real-world applications
 - **AI-assisted Development** — Claude Code, spec-driven workflows, subagents & MCP
 
 ---
