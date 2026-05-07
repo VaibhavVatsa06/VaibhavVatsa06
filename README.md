@@ -60,16 +60,6 @@ Full stack developer with a focus on building **clean, responsive web applicatio
 
 ---
 
-## 🚀 Projects
-
-- **[Telegram Anti-Bullying Bot](https://github.com/VaibhavVatsa06/telegramBot)** — Python bot for automated cyber-bullying detection, issuing warnings and banning users in real time.
-- **[Web Scraper](https://github.com/VaibhavVatsa06/webScrapper)** — Python-based web crawler that systematically scans and indexes publicly accessible pages, identifying unwanted links.
-- **[Audio Steganography](https://github.com/VaibhavVatsa06/AudPro)** — GUI-based system using Tkinter for secure embedding and extraction of data within WAV files.
-- **[Fake News Detection via Lip Sync](https://github.com/VaibhavVatsa06/deepFake)** — Deep learning model (CNN + LSTM) detecting AI-generated fake news videos from lip movements.
-- **[Portfolio](https://github.com/VaibhavVatsa06/portfolio)** — Personal developer portfolio built with HTML, CSS & JavaScript. Live at [vaibhavvatsa06.github.io/portfolio](https://vaibhavvatsa06.github.io/portfolio/).
-
----
-
 ## 🏆 Achievements
 
 - 🥉 **4th Place** — Hack-O-Rama Hackathon, DSCE Bengaluru (Jan 2024 · 50 teams)
